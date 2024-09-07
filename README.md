@@ -1,22 +1,15 @@
-# PulseTv clone
+# Alex' Todo page
 
-## Cloned copy of the pulseTv website Africa.
+## A page to create, complete a list of todos.
 
-This page is a cloned copy of the PulseTv media company in Africa via
-the use of position absolute and position relative property and property values.
+This page is designed to create a list of activities or actions to be carried out in an order or randomly.
 
-*Create the HTML page inserting the required elements as seen in original page
+*In the HTML doc, a heading was ceated using the h1 element inside a header tag. A form was implemented in which an input element was added which had a button, then a select element for filtering the todo list was added. After the form, the todo list container followed which has an empty todo list un-ordered list  item.
 
-*Create the CSS with respect to original page styling
+*Inside the CSS file, the body was styled with a linear-gradient background-color and font used was Poppins. The form, input, buttons and dropdown select elements were styled.
 
-All positioned using position absolute or relative properties for practice and knowledge of the CSS property and property-value.
+Event liseners were added to the todo input, todo button, filter todo and todo list. Function to create todo was implemented as well as the function to delete todos and function to display completed todos in a crossed-out text format. CSS stylings for the delete todo buttons and completed todos were carried out inside the javaScript file.
 
 ## Screenshot of how it looks
 
-<img src="screenshot/Screenshot (122).png" alt="project-screen">
-<img src="screenshot/Screenshot (123).png" alt="project-screen">
-<img src="screenshot/Screenshot (124).png" alt="project-screen">
-<img src="screenshot/Screenshot (125).png" alt="project-screen">
-<img src="screenshot/Screenshot (126).png" alt="project-screen">
-<img src="screenshot/Screenshot (127).png" alt="project-screen">
-<img src="screenshot/Screenshot (128).png" alt="project-screen">
+<img src="screenshot/Screenshot (129).png" alt="project-screen">
