@@ -8,7 +8,7 @@ This page is designed to create a list of activities or actions to be carried ou
 
 *Inside the CSS file, the body was styled with a linear-gradient background-color and font used was Poppins. The form, input, buttons and dropdown select elements were styled.
 
-Event liseners were added to the todo input, todo button, filter todo and todo list. Function to create todo was implemented as well as the function to delete todos and function to display completed todos in a crossed-out text format. CSS stylings for the delete todo buttons and completed todos were carried out inside the javaScript file.
+*Event listeners were added to the todo input, todo button, filter todo and todo list. Function to create todo was implemented as well as the function to delete todos and function to display completed todos in a crossed-out text format. CSS stylings for the delete todo buttons and completed todos were carried out inside the javaScript file.
 
 ## Screenshot of how it looks
 
