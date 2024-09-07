@@ -1,6 +1,6 @@
 # Alex' Todo page
 
-## A page to create, complete a list of todos.
+## A page to create and complete a list of todos.
 
 This page is designed to create a list of activities or actions to be carried out in an order or randomly.
 
