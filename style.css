@@ -13,6 +13,20 @@ body{
 
 header {
     font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.how-to ul li {
+    font-size: 0.9rem;
+}
+
+header h1 {
+    /* border: 1px solid black; */
+    width: 100%;
+    text-align: center;
 }
 
 header, form {
