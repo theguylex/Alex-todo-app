@@ -12,16 +12,21 @@
 
 /* Extra small devices */
 @media (min-width:481px) and (max-width:767px) {
-    .how-to ul li {
-        font-size: 0.6rem;
+    .how-to ul {
+        font-size: 0.7rem;
+        padding: 0px 19px;
+    }
+
+    input {
+        width: 37vw;
     }
 }
 
 /* Mobile */
 @media (min-width:320px) and (max-width:480px) {
-    .how-to ul li {
+    .how-to ul {
         font-size: 0.8rem;
-        padding: 0px 14px;
+        padding: 0px 19px;
         line-height: 2.5rem;
     }
 
