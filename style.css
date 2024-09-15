@@ -48,6 +48,7 @@ form button {
     background: white;
     cursor: pointer;
     transition: all 0.3s ease;
+    margin-left: -1rem;
 }
 
 form button:hover{
